@@ -4,7 +4,7 @@
 
 ## Requirements
 
-- Laravel 8.x or higher
+- Laravel 10.x or higher
 - PHP 8.3 or higher
 - Composer
 
