@@ -17,5 +17,7 @@
                 "FredLabs\\BusinessUnits\\Providers\\BusinessUnitServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
