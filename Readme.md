@@ -1,6 +1,12 @@
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
 # FredLabs Business Units
 
+#### Handle business unit within your application.
+
 `fredlabs/business-units` is a Laravel package for handling business units in your application. It provides a trait and model for managing business units and includes functionality for automatically updating existing tables with a `business_unit_id` column.
+
 
 ## Requirements
 
@@ -8,7 +14,7 @@
 - PHP 8.3 or higher
 - Composer
 
-## Installation
+## Installation, and Usage Instructions
 
 To install the package, use Composer:
 
@@ -65,10 +71,4 @@ This trait will allow you to associate business units with your models. Ensure t
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-## Badges
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
 

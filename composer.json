@@ -1,6 +1,6 @@
 {
     "name": "fredlabs/business-units",
-    "description": "A package to handle business units",
+    "description": "Business units handler for Laravel 10.* and above.",
     "version": "v1.4.1",
     "type": "library",
     "autoload": {
@@ -18,6 +18,20 @@
             ]
         }
     },
+    "authors": [
+        {
+            "name": "FredLabs",
+            "email": "nisitha56190@gmail.com",
+            "homepage": "https://nisithad.github.io/"
+        }
+    ],
+    "require": {
+        "php": ">=8.3",
+        "illuminate/database": "^10.0",
+        "illuminate/support": "^10.0",
+        "illuminate/auth": "^8.12|^9.0|^10.0|^11.0"
+    },
+
     "minimum-stability": "stable",
     "prefer-stable": true
 }
