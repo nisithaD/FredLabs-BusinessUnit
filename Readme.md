@@ -11,7 +11,7 @@
 ## Requirements
 
 - Laravel 10.x or higher
-- PHP 8.3 or higher
+- PHP 8.2 or higher
 - Composer
 
 ## Installation, and Usage Instructions
