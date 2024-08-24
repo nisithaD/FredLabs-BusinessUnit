@@ -1,7 +1,7 @@
 {
     "name": "fredlabs/business-units",
     "description": "A package to handle business units",
-    "version": "1.4.0.0",
+    "version": "1.4.0",
     "type": "library",
     "autoload": {
         "psr-4": {
